@@ -28,7 +28,7 @@ The game uses a MicroBlaze softcore processor for game logic, a custom SystemVer
 ## Setup Instructions
 
 1. **Unzip the project**  
-   Extract the provided `robotron_archive.zip` – it contains the Vivado project folder `robotron/`. [link](\https://drive.google.com/file/d/15d1MwG6z8d5JC6Vky_gQVNLktH34swd7/view?usp=sharing)
+   Extract the provided `robotron_archive.zip` – it contains the Vivado project folder `robotron/`. [link](https://drive.google.com/file/d/15d1MwG6z8d5JC6Vky_gQVNLktH34swd7/view?usp=sharing)
 
 2. **Open the Vivado project**  
    - Launch Vivado.  
