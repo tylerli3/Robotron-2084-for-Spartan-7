@@ -1,11 +1,7 @@
 # Robotron 2084 on FPGA
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
 A hardware-accelerated recreation of the classic arcade game **Robotron 2084** running on a Nexys Video FPGA board.  
 The game uses a MicroBlaze softcore processor for game logic, a custom SystemVerilog HDMI controller with dual-frame buffers, sprite ROM, and palette cycling, plus USB keyboard input via MAX3421E.
-
-![Gameplay](docs/gameplay.png) <!-- Add a screenshot if available -->
 
 ## Features
 
@@ -108,12 +104,9 @@ In menu screens, press **Enter** to start a new game or return to the start scre
 - **Original Robotron 2084** – Williams Electronics (1982)  
 - **FPGA implementation** – ECE 385 team @ University of Illinois Urbana‑Champaign  
 - **HDMI text controller framework** – Zuofu Cheng (University of Illinois)  
-- **MAX3421E USB host stack** – Adapted from Microchip and Xilinx examples
+- **MAX3421E USB host stack** –  ECE 385 team @ University of Illinois Urbana‑Champaign 
 
-## License
 
-This project is released under the **MIT License**. See [LICENSE](LICENSE) for details.
-
----
-
-*For questions or contributions, please open an issue or contact the authors.*
+## Contact
+Tyler Li -- tylerli3@illinois.edu
+Charles Chen -- cychen8@illinois.edu
